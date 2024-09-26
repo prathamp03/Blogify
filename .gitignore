@@ -25,3 +25,6 @@ dist-ssr
 
 # Ignore environment variables
 .env
+
+# Ignore README.md
+README.md
